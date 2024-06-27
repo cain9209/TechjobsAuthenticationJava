@@ -9,3 +9,4 @@ import org.springframework.stereotype.Repository;
 @Transactional
 public interface JobRepository extends CrudRepository<Job, Integer> {
 }
+//
